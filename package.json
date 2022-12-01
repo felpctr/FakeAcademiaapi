@@ -2,7 +2,7 @@
   "name": "fakeacademiaapi",
   "version": "1.0.0",
   "description": "Fake Academia",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "json-server --watch db.json --port 3000",
     "start": "node server.js"
